@@ -18,8 +18,6 @@ Welcome to the Electronic Data Processing (EDP) software for Indian Railways! Th
 - *Python*: For backend logic, data processing, and interfacing with the SQL database.
 - *SQL*: For database management, ensuring efficient storage and retrieval of data.
 - *SQLite*: As the default database for development and testing purposes.
-- *Pandas*: For data manipulation and analysis within Python.
-- *Flask*: For building a simple web interface (optional).
 
 ## Installation
 
@@ -59,6 +57,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-For any questions or suggestions, please contact [your email] or open an issue on GitHub.
+For any questions or suggestions, please contact or open an issue on GitHub.
 
 Thank you for using the Electronic Data Processing Software for Indian Railways! Your contributions and feedback are invaluable in making this project better.
